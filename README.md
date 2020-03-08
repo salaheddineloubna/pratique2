@@ -1,3 +1,4 @@
  pratique2  
 deuxième repository 
-modification effectuer 
+modification effectuer
+modifcation form onther pc 
